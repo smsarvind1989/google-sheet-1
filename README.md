@@ -1,5 +1,5 @@
 # google-sheet-1
-active cells layout in sheet script
+# active cells layout in sheet script
 // [] = saari sheets, [3] = sirf Sr 2 (Amardeep verma) wali sheet
 const ONLY_ROWS = [];
 
